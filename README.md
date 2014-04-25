@@ -1,0 +1,1 @@
+Cloud code project for Test2. https://cn.avoscloud.com/docs/cloud_code_guide.html
